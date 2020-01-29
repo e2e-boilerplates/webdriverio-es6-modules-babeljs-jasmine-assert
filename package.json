@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-es6-modules-babeljs-jasmine-expect",
+  "name": "webdriverio-es6-modules-babeljs-jasmine-assert",
   "version": "1.0.0",
-  "description": "WebdriverIO end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine and Expect.",
+  "description": "WebdriverIO end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine and Assert.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx wdio wdio.conf.js",
@@ -13,9 +13,8 @@
     "jasmine",
     "boilerplate",
     "example",
-    "expect",
-    "e2e",
-    "javascript"
+    "assert",
+    "e2e"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",

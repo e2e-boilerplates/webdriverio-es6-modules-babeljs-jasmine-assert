@@ -18,7 +18,7 @@ exports.config = {
   jasmineNodeOpts: {
     defaultTimeoutInterval: 60000
   },
-    before(capabilities, specs) {
+  before(capabilities, specs) {
     // eslint-disable-next-line global-require
     require("@babel/register");
   }
