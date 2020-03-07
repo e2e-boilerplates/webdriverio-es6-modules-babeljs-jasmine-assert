@@ -36,15 +36,15 @@
   "keywords": [
     "assert",
     "babeljs",
-    "es modules",
+    "es",
     "jasmine",
     "webdriverio"
   ],
   "license": "MIT",
-  "name": "webdriverio-es6-modules-babeljs-jasmine-assert",
+  "name": "webdriverio-es-modules-babeljs-jasmine-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/webdriverio-es6-modules-babeljs-jasmine-assert.git"
+    "url": "git+https://github.com/e2e-boilerplates/webdriverio-es-modules-babeljs-jasmine-assert.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
