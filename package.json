@@ -37,7 +37,6 @@
     "assert",
     "babeljs",
     "es modules",
-    "es6",
     "jasmine",
     "webdriverio"
   ],
