@@ -1,12 +1,12 @@
-# WebdriverIO: (ES Modules, BabelJS, Jasmine and Asset)
+[![GitHub Actions status | e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/workflows/webdriverio-es-modules-babel-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/actions?workflow=webdriverio-es-modules-babel-jasmine-assert)
 
-[![GitHub Actions status | e2e-boilerplates/webdriverio-es-modules-babeljs-jasmine-assert](https://github.com/e2e-boilerplates/webdriverio-es-modules-babeljs-jasmine-assert/workflows/webdriverio-es-modules-babeljs-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-es-modules-babeljs-jasmine-assert/actions?workflow=webdriverio-es-modules-babeljs-jasmine-assert)
+# WebdriverIO Boilerplate
 
-WebdriverIO end-to-end test automation boilerplate, using ES Modules, BabelJS, Jasmine and Assert.
+WebdriverIO end-to-end test automation boilerplate, using ES Modules, Babel, Jasmine and Assert.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/webdriverio-es-modules-babeljs-jasmine-assert.git
-    git cd webdriverio-es-modules-babeljs-jasmine-assert
-    npm install
-    npm run test
+git clone git@github.com:e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert.git
+cd webdriverio-es-modules-babel-jasmine-assert
+npm install
+npm run test
