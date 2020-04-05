@@ -1,0 +1,12 @@
+| referrer                                                                                      | count | uniques |
+| :-------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/actions                          | 3     | 2       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/actions/runs/60597713            | 2     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert                                  | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/actions/runs/62581677            | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/blob/master/spec/sandbox.spec.js | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/pull/31                          | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/pull/33                          | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/pull/36                          | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/runs/524885499                   | 1     | 1       |
+| /e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert/runs/531981044                   | 1     | 1       |
