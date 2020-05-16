@@ -41,14 +41,15 @@
   "keywords": [
     "assert",
     "babel",
-    "boilerplate",
+    "es modules",
+    "jasmine",
+    "webdriverio",
     "e2e",
     "e2e tests",
-    "es modules",
-    "example",
+    "boilerplate",
     "integration test",
-    "jasmine",
-    "webdriverio"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
